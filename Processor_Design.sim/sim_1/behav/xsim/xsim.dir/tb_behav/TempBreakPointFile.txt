@@ -1,0 +1,4 @@
+Breakpoint File Version 1.0
+254,true,"C:/Users/PurplE/AppData/Roaming/Xilinx/Vivado/Documents/Processor_Design/Processor_Design.srcs/sources_1/new/top.v"
+255,true,"C:/Users/PurplE/AppData/Roaming/Xilinx/Vivado/Documents/Processor_Design/Processor_Design.srcs/sources_1/new/top.v"
+257,true,"C:/Users/PurplE/AppData/Roaming/Xilinx/Vivado/Documents/Processor_Design/Processor_Design.srcs/sources_1/new/top.v"
